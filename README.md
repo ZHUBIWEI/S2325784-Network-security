@@ -35,7 +35,10 @@ and run the above command
 ### How to run other anomaly detection methods.
 In order to have a more comfortable and real-time results,
 I decide to use jupyter notebook to show this part. 
-You can see a folder in the .zip name as 'lime_other_anomaly_detection_methods'
+You can see a folder name as 'lime_other_anomaly_detection_methods'.
+After running the preprocessor, three datasets will be generated, namely: 'train_set', 'test_set' and 'eval_set'.
+You need to put these three datasets into the folder 'lime_other_anomaly_detection_methods'.
+
 
 
 Reference:
