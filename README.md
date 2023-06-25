@@ -7,7 +7,9 @@ tqdm
 scikit-learn
 pandas
 ```
-
+### Dowload the UNSW-NB15 and put the dataset into the 'data' folder
+We will use the UNSW-NB15 Dataset (Moustafa & Slay, 2015) or the other dataset as you want
+- Moustafa, N. & Slay, J. "UNSW-NB15: a comprehensive data set for network intrusion detection systems (UNSW-NB15 network data set)." Military Communications and Information Systems Conference (MilCIS), 2015. IEEE, 2015
 ### How to run AE and VAE
 Step 1:
 Preprocess the dataset by run the file preprocessor.py directly
