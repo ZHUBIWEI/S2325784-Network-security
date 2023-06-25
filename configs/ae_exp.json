@@ -1,0 +1,15 @@
+{
+    "ROOT_DIR": "D:/Anacoda/envs/anomaly_detector/",
+    "model_name": "ae",
+    "save_dir": "models/",
+    "plot_dir": "plots/",
+    "epoch_num": 10,
+    "batch_size": 64,
+    "lr": 5e-4,
+    "weight_decay": 5e-4,
+    "scaling_method": "minmax",
+    "scalar_path": "data/minmax_scalar.npy",
+    "train_path": "data/train_set.csv",
+    "val_path": "data/eval_set.csv",
+    "test_path": "data/test_set.csv"
+}
