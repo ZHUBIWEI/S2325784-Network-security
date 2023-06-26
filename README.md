@@ -6,6 +6,7 @@ matplotlib
 tqdm
 scikit-learn
 pandas
+lime
 ```
 ### Dowload the UNSW-NB15 and put the dataset into the 'data' folder
 We will use the UNSW-NB15 Dataset (Moustafa & Slay, 2015) or the other dataset as you want
