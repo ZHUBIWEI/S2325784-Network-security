@@ -1,1 +1,2 @@
-After running the preprocessor, copy the generated 'train_set', 'test_set' and 'eval_set' datasets from folder 'data' to this folder
+After running the preprocessor.py, copy the generated 'train_set', 'test_set' and 'eval_set' datasets from folder 'data' to this folder
+After running the main.py, copy the generated best model 'ae.pth' and 'vae.pth' and 'eval_set' datasets from folder 'models' to this folder
