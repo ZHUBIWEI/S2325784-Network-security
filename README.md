@@ -32,8 +32,9 @@ python main.py --config_file ./configs/vae_exp.json
 If do have GPU, we can choose larger `batch_size`, else using smaller one,
 e.g., 32 or 64, to avoid large memory consumption.
 
-If you want to try k-fold cross-validation, you can change the 'main_CV' to 'main'
-and run the above command
+If you want to test different k-fold cross-validation, 
+you can change the variable 'k' in main.py and run the above command
+Or comment out the k-fold part, you can simply run the AE and VAE models
 
 ### How to run other anomaly detection methods.
 In order to have a more comfortable and real-time results,
